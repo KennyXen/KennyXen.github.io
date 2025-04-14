@@ -13,6 +13,7 @@ export const informacionYProyectosValdez = [
     position: "Ingeniería de Sistemas e Informática",
     period: "2021 - Presente",
     github: "https://github.com/KennyXen",
+    blog: "https://kennyblog.example.com",
     achievements: [
       "Estudiante de Ingeniería de Sistemas e Informática en la Universidad Continental,",
       "en transición desde la enseñanza de matemáticas hacia la ingeniería.",
@@ -31,6 +32,7 @@ export const informacionYProyectosMontenegro = [
     position: "Ingeniería de Sistemas e Informática",
     period: "2023 - Presente",
     github: "https://github.com/EliseoMontenegro",
+    blog: "https://kennyblog.example.com",
     achievements: [
       "Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad Continental, apasionado por la tecnología. Mi interés se centra en el diseño de software, el desarrollo de aplicaciones móviles y la creación de páginas web, siempre buscando fusionar funcionalidad e innovación en cada proyecto.",
       "💻 Me encanta diseñar y desarrollar software que ofrezca soluciones eficientes.",
@@ -48,6 +50,7 @@ export const informacionYProyectosSaenz = [
     position: "Ingeniería de Sistemas e Informática",
     period: "desde - Presente",
     github: "https://jamesssc.github.io/Entregable1/",
+    blog: "https://kennyblog.example.com",
     achievements: [
       "Designed and implemented business logic for AWS Lambdas using the Serverless Framework, forming the backbone of the application's functionality and ensuring seamless backend operations.",
       "Built a comprehensive admin panel for managing content, user data, and analytics.",
@@ -68,6 +71,7 @@ export const informacionYProyectosRivera = [
     position: "Ingeniería de Sistemas e Informática",
     period: "2022 - Presente",
     github: "https://github.com/yorblim",
+    blog: "https://kennyblog.example.com",
     achievements: [
       "🎓 Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad Continental, apasionado por el desarrollo de software, la ciberseguridad y la innovación tecnológica.",
       "📚 Me interesa combinar la teoría que aprendo en clase con proyectos prácticos que me permitan resolver problemas reales.",
@@ -84,6 +88,7 @@ export const informacionYProyectosZerpa = [
     position: "Ingeniería de Sistemas e Informática",
     period: "2022 - Presente",
     github: "https://github.com/Eladio-Zerpa",
+    blog: "https://kennyblog.example.com",
     achievements: [
      "Estudiante de Ingeniería de Sistemas e Informática en la Universidad Continental,",
       "en transición desde la enseñanza de la tecnología y información.",
