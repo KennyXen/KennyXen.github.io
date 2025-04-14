@@ -71,7 +71,7 @@ export const informacionYProyectosRivera = [
     position: "Ingeniería de Sistemas e Informática",
     period: "2022 - Presente",
     github: "https://github.com/yorblim",
-    blog: "https://kennyblog.example.com",
+    blog: "https://yorblim.github.io/Jorcaef-blog-personal/",
     achievements: [
       "🎓 Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad Continental, apasionado por el desarrollo de software, la ciberseguridad y la innovación tecnológica.",
       "📚 Me interesa combinar la teoría que aprendo en clase con proyectos prácticos que me permitan resolver problemas reales.",
