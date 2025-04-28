@@ -31,7 +31,7 @@ export const informacionYProyectosMontenegro = [
     location: "Lima - Perú",
     position: "Ingeniería de Sistemas e Informática",
     period: "2023 - Presente",
-    github: "https://github.com/EliseoMontenegro",
+    github: "https://eliseomontenegro.github.io/ENTREGABLE1/",
     blog: "https://eliseo-montenegroblog.vercel.app/",
     achievements: [
       "Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad Continental, apasionado por la tecnología. Mi interés se centra en el diseño de software, el desarrollo de aplicaciones móviles y la creación de páginas web, siempre buscando fusionar funcionalidad e innovación en cada proyecto.",
